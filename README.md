@@ -10,6 +10,7 @@ To install the packages automatically, we have provided a "requirements.txt" fil
 ```bash
 pip install -r requirements.txt
 ```
+For Raspberry Pi, please check this [website](https://104.es/2021/01/30/%E5%9C%A8%E6%A8%B9%E8%8E%93%E6%B4%BE3-model-b%E4%B8%8A%E5%AE%89%E8%A3%9Dopencv/) to install OpenCV 
 
 ## Usage
 Run the server code on the computer.
